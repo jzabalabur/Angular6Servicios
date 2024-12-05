@@ -11,16 +11,16 @@
     </tr>
     </thead>
 
-    <tbody>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><button>Detalles</button></td>
-      </tr>
-  </tbody>
+    <tbody class="lerroak" *ngFor="let cliente of clientes; let i = index">
+        <tr>
+          <td>{{cliente.id}}</td>
+          <td>{{cliente.nombre}}</td>
+          <td>{{cliente.apellido}}</td>
+          <td>{{cliente.edad}}</td>
+          <td>{{cliente.cantidad}}</td>
+          <td><button (click)="verDetalles(i)">Detalles</button></td>
+        </tr>
+    </tbody>
   </table>
 </div>
-<app-detalles></app-detalles>
+<app-detalles [cliente]="cliente" [posicion]="posicion"></app-detalles>
