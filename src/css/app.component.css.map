@@ -1,0 +1,1 @@
+{"version":3,"sources":["../app/_app.component.scss","app.component.css","../_estiloComun.scss"],"names":[],"mappings":"AAAA;EACE,WAAA;EACA,yCAAA;ACCF;ADAE;EACE,uBAAA;EACA,yBAAA;ACEJ;ADDI;EACE,sBAAA;EACA,YAAA;EACA,YAAA;ACGN;ADDI;EACE,uBAAA;EACA,YAAA;ACGN;;AChBA;EACE,aAAA;EACA,uBAAA;EACA,yCAAA;ADmBF;AClBE;EACE,gBAAA;EACA,kBAAA;ADoBJ","file":"app.component.css"}

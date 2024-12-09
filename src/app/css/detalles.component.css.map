@@ -1,0 +1,1 @@
+{"version":3,"sources":["../detalles/_detalles.component.scss","detalles.component.css","../../_estiloComun.scss"],"names":[],"mappings":"AAAA;EACE,sBAAA;EACA,aAAA;EACA,gBAAA;EACA,mBAAA;EACA,uBAAA;EACA,YAAA;ACCF;ADAE;EACE,WAAA;ACEJ;ADAE;EACE,gBAAA;EACA,kBAAA;ACEJ;;ACdA;EACE,aAAA;EACA,uBAAA;EACA,yCAAA;ADiBF;AChBE;EACE,gBAAA;EACA,kBAAA;ADkBJ","file":"detalles.component.css"}

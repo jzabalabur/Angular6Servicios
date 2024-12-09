@@ -1,0 +1,27 @@
+.taula {
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.taula table {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+.taula table th {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+}
+.taula table tr, .taula table td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body h2 {
+  margin-top: 10px;
+  text-align: center;
+}/*# sourceMappingURL=app.component.css.map */

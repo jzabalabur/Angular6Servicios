@@ -1,0 +1,17 @@
+.taula{
+  width:100%;
+  font-family: Arial, Helvetica, sans-serif;
+  & table{
+    border:2px solid black;
+    border-collapse: collapse;
+    & th {
+      background-color: blue;
+      color:$colorWhite;
+      padding: 5px;
+    }
+    & tr, td {
+      border: 1px solid black;
+      padding: 5px;
+    }
+  }
+}

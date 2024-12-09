@@ -1,0 +1,16 @@
+#detalles{
+  background-color: $colorGrey;
+  padding:20px;
+  margin-top:20px;
+  border-radius: 20px;
+  border:2px solid black;
+  width:500px;
+  & input {
+    width:100%;
+  }
+  & button{
+    margin-top:10px;
+    margin-right:10px;
+
+  }
+}
